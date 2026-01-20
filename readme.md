@@ -15,8 +15,8 @@ A web application for collecting and managing jersey orders for the Ganador team
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/YOUR_USERNAME/ganador-jersey-order.git
-   cd ganador-jersey-order
+   git clone https://github.com/YOUR_USERNAME/ganador-webapp.git
+   cd ganador-webapp
 ```
 
 2. Install dependencies:
